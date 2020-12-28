@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramBotData", "Telegram
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindedSources", "BindedSources\BindedSources.csproj", "{40E0421C-28D7-48FB-BD00-FAF3B40C7367}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8829FF52-C55E-40C8-A2AD-FC80B8141DDC}"
+	ProjectSection(SolutionItems) = preProject
+		PrivateTokens.txt = PrivateTokens.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
